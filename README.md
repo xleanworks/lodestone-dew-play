@@ -2,4 +2,4 @@
 
 Playable build: https://xleanworks.github.io/lodestone-dew-play/
 
-Exported from Godot 4.3, commit 1d90797 of the private source repo.
+Exported from Godot 4.3, commit 751b7b6 of the private source repo.
